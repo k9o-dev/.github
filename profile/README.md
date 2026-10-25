@@ -1,6 +1,6 @@
 # Kilimanjaro
 
-**Build AI-native apps on a governed foundation.** Kilimanjaro is the foundation for building critical applications: data, security, governance and compute composed into one architecture, with four products on top.
+**Build AI-native apps on a governed foundation.** Data, security, governance and compute in one architecture, with four products on top.
 
 | Product | What it does | Key capabilities |
 |---|---|---|
