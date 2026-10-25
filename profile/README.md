@@ -22,7 +22,7 @@
 |---|---|---|---|
 | TypeScript / JavaScript | `@k9o/core` | `npm install @k9o/core` | [sdk-typescript](https://github.com/k9o-dev/sdk-typescript) |
 | Python | `k9o` | `pip install k9o` | [sdk-python](https://github.com/k9o-dev/sdk-python) |
-| Command line | `@k9o/cli` | `npm install -g @k9o/cli` | [cli](https://github.com/k9o-dev/cli) |
+| Command line | `@k9o/cli` | `npm install -g @k9o/cli` | [k9o-cli](https://github.com/k9o-dev/k9o-cli) |
 | Go | `k9o.dev/sdk-go` | `go get k9o.dev/sdk-go` | [sdk-go](https://github.com/k9o-dev/sdk-go) |
 | Java | `dev.k9o:core` | Maven or Gradle, see the README | [sdk-java](https://github.com/k9o-dev/sdk-java) |
 | .NET | `K9o.Core` | `dotnet add package K9o.Core` | [sdk-dotnet](https://github.com/k9o-dev/sdk-dotnet) |
