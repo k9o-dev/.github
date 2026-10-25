@@ -1,0 +1,40 @@
+name: Bug report
+description: Something does not work as documented.
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: SDK version
+      placeholder: "1.1.1"
+    validations:
+      required: true
+  - type: input
+    id: runtime
+    attributes:
+      label: Language and runtime version
+      placeholder: "Python 3.12, Node 22, Go 1.22"
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Code that reproduces it
+      description: The smallest example you can.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened
+      description: Include the full error, with its code and request id if there is one.
+      render: text
+    validations:
+      required: true
