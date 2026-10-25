@@ -1,6 +1,13 @@
 # Kilimanjaro
 
-**The Sovereign Stack for building critical applications.** Identity (Gate), zero-knowledge secrets (Kibo), data and functions, with SDKs in twelve languages and one command-line tool.
+**Build AI-native apps on a governed database.** Kilimanjaro is the Sovereign Stack for building critical applications: four products on one governed data platform.
+
+| Product | What it does | Key capabilities |
+|---|---|---|
+| **Keep** | AI Security and Governance | AI trust, risk and security management for agents |
+| **Pulse** | Data Intelligence | A data intelligence plane for operational and agentic systems, with federated analytics and an event bus |
+| **Gate** | Identity and Access Management | Authentication, authorization and identity federation |
+| **Kibo** | Keys and Secrets Management | Custody modes, bring-your-own-key (BYOK) and hold-your-own-key (HYOK) |
 
 ## Links
 
@@ -9,7 +16,7 @@
 - Platform API: <https://api.k9o.io>
 - Platform Console: <https://console.k9o.io>
 
-## Start here
+## Start here: SDKs and CLI
 
 | Language | Package | Install | Repository |
 |---|---|---|---|
