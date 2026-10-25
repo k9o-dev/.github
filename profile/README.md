@@ -1,6 +1,6 @@
 # Kilimanjaro
 
-**Build AI-native apps on a governed database.** Kilimanjaro is the Sovereign Stack for building critical applications: four products on one governed data platform.
+**Build AI-native apps on a governed foundation.** Kilimanjaro is the foundation for building critical applications: data, security, governance and compute composed into one architecture, with four products on top.
 
 | Product | What it does | Key capabilities |
 |---|---|---|
