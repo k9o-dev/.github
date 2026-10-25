@@ -6,7 +6,7 @@
 |---|---|---|
 | **Keep** | AI Security and Governance | AI trust, risk and security management for agents |
 | **Pulse** | Data Intelligence | A data intelligence plane for operational and agentic systems, with federated analytics and an event bus |
-| **Gate** | Identity and Access Management | Authentication, authorization and identity federation |
+| **Gate** | Customer Identity and Access Management | Authentication, authorization and identity federation |
 | **Kibo** | Keys and Secrets Management | Custody modes, bring-your-own-key (BYOK) and hold-your-own-key (HYOK) |
 
 ## Links
