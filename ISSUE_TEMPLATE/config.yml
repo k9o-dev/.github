@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://docs.kilimanjaro.dev
+    about: Guides, API reference and SDK documentation.
+  - name: Report a security vulnerability
+    url: https://github.com/k9o-dev/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, not in a public issue.
